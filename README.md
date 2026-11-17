@@ -14,6 +14,8 @@ Chaque ensemble de notebooks se trouve dans sa propre branche.
 
 ## Récupérer une branche
 
+Exemple pour récupérer l'énoncé du TP sur le calcul de pi:
+
 ```bash
-git clone -b TP_pi --single-branch https://github.com/ycarissan/one3.git
+git clone -b TP_pi --single-branch https://github.com/ycarissan/one3.git TP_pi
 ```
